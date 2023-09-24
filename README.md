@@ -6,7 +6,7 @@
 </td></tr></table>
 
 Simple docker agent for Jenkins. Use this docker image mainly as a docker agent (node) in Jenkins environment.
-This docker image instantiated containers running proccess (CMD) is sshd daemon.
+This docker image instantiated containers running proccess (`CMD`) is sshd daemon.
 
 # Build image
 
