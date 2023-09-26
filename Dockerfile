@@ -14,7 +14,7 @@ RUN  apt-get update && \
      apt-get install -y git && \
      apt-get install -y python3 python3-pip python3-venv && \
      apt-get install -y openssh-server && \
-     apt-get install -y openjdk-8-jdk && \
+     apt-get install -y openjdk-11-jdk && \
      apt-get install -y iproute2 && \
      apt-get install -y iputils-ping && \
      apt-get install -y dnsutils && \
